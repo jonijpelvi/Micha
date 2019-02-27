@@ -38,5 +38,3 @@ class HTTP:
         else:
             return False
 
-
-
